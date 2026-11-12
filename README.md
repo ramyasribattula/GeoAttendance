@@ -73,7 +73,9 @@ Add your application screenshots here after capturing them.
 
 | Login Screen | Attendance Dashboard | Attendance History |
 |---|---|---|
-| Add login screenshot | Add dashboard screenshot | Add history screenshot |
+| <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/edd5b031-3f1f-4fab-a1b2-d9d03dd28e8f" />
+ | <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/a53dcde3-dd45-4d48-b056-0920a9e135a4" />
+ | Add history screenshot |
 
 ## 🔧 Installation and Setup
 
